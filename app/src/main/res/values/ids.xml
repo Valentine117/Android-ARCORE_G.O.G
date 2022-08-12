@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buyBtn1" type="id" />
+    <item name="buyBtn2" type="id" />
+    <item name="buyBtn3" type="id" />
+    <item name="buyBtn4" type="id" />
+    <item name="buyBtn5" type="id" />
+    <item name="buyBtn6" type="id" />
+    <item name="imageView8" type="id" />
+    <item name="imageView9" type="id" />
+    <item name="imageView10" type="id" />
+    <item name="imageView11" type="id" />
+    <item name="imageView12" type="id" />
+    <item name="imageView13" type="id" />
+</resources>
