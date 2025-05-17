@@ -1,5 +1,6 @@
 # Android-ARCORE_G.O.G
 <p align ="center">
+<h1>잠시 기다리면 실행 영상이 나타납니다.</h1>
 <h1>Weapon Change & Store System</h1>
 <img src = "https://user-images.githubusercontent.com/47212854/185969460-144775f7-b794-4e5e-89ea-f924c3ef2176.gif">
 </p>
